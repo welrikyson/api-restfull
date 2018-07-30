@@ -1,27 +1,4 @@
-# Tutorial: Desenvolvendo uma Aplicação RESTful API em Node.Js & Express.Js com MongoDb
-
-Código desenvolvido do tutorial do CRUD em Node.Js, Express e MongoDb, através do meu site: [Code4coders] (www.code4coders.wordpress.com)
-
-## Recursos utilizados no desenvolvimento:
-
-- Node.Js;
-- Express.Js ~ v.4.0;
-- Conceito RestFul;
-- MongoDb;
-- Mongoose ~4.x;
-- JSON data (para retornar os dados);
-- PostMan (testar a API criada);
-
-## Acompanhamento do Desenvolvimento dos BackLogs do Projeto:
-
-Caso queira saber o acompanhamento do desenvolvimento de cada backlog do projeto que está sendo
-desenvolvido, basta clicar [Aqui](https://trello.com/b/exbJW7kt/tutorial-construindo-uma-aplicacao-restful-api-node-js-express-com-mongodb)
-
 ## Testando a Aplicação no Postman:
-
-Caso queira testar as API's criadas no projeto, primeiro baixe o [Postman](https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop).
-Depois de realizar o download do Postman, basta agora realizar os passos abaiaxo para 
-poder testar cada API criada!
 
   ROTA                    |     HTTP(Verbo)   |      Descrição        | 
 ------------------------- | ----------------- | --------------------- | 
